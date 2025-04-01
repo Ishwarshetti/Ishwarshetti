@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**Ishwarshetti/Ishwarshetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Ishwar C Pattanshetti! 👋
+🎓 Final Year CSE Student | Full-Stack Developer 🚀
 
-Here are some ideas to get you started:
+💻 Passionate about building scalable web applications and solving real-world problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tech Stack & Skills:
+Frontend: React.js, JavaScript, HTML, CSS
+
+Backend: Node.js, Express.js
+
+Databases: MongoDB, MySQL
+
+Programming: Java, C, Data Structures & Algorithms
+
+Version Control: Git, GitHub
+
+API Development: RESTful APIs
+
+📌 Current Projects:
+CareConnect – A doctor appointment booking system (MERN Stack)
+
+LMS App – A learning management system for educators and students
+
+📫 Connect With Me:
+🔗 GitHub: Ishwarshetti
+
+💼 LinkedIn: Ishwar Pattanashetti
+
+
